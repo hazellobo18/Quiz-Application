@@ -4,7 +4,7 @@ var choice=[]
 
 
 createQuiz(0);
-// generate from json array data with index
+
 function createQuiz(index) {
     document.getElementById("question").innerHTML = questionBank[index].q;
     document.getElementById("optt1").innerHTML = questionBank[index].opt1;
