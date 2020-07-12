@@ -1,0 +1,43 @@
+th{
+    color:#fff;
+}
+
+.result{
+    text-align: center;
+}
+
+
+body{
+    background-color: #ddd3d9e5;
+    background-size: cover;
+    background-position: top center ;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+}
+.Panel{
+    margin:auto;
+    width:800px;
+    vertical-align: center;
+    margin:0 auto;
+    background-color:rgba(250, 235, 215, 0.781) ;
+    border: none ;
+    border-radius : 10px ;
+    padding: 20px ;
+    height: 170px ;
+    font-size: 15pt;
+}
+.ques{
+    font-size : 18pt;
+    font-weight: bold ;
+}
+.nxtBtn{
+    position: relative ;
+    right : 10px ;
+    float: right;
+    border:none ;
+    font-size: 18pt ;
+    background-color: #348322  ;
+    color: #ffffff ;
+    width: 80px ;
+    height: 30px ;
+}
